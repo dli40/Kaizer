@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kaizer</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="location_permission_denied">Error: Please turn on location to continue</string>
+    <string name="no_location">Location unavailable, please turn on</string>
+    <string name="service_not_available">Locations is unavailable atm</string>
+    <string name="invalid_lat_long_used">Not valid latitude and longitude</string>
+    <string name="no_address_found">Could not find address</string>
+    <string name="location_text">"Latitude: %1$.4f \n Longitude: %2$.4f
+ \n Timestamp: %3$tr"</string>
+    <string name="address_text">"Address: %1$s \n Timestamp: %2$tr"</string>
+    <string name="loading">"Fetching location.."</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_review">ReviewActivity</string>
+</resources>
